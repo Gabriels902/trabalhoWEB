@@ -1,6 +1,6 @@
-# Node MVC WebApp
+Trabalho da faculdade Catolica de Brasilia, Programação WEB
 
-Node MVC WebApp é um aplicativo modelo usando [Node.js](https://nodejs.org/en) e padrão arquitetural [MVC](https://pt.wikipedia.org/wiki/MVC)
+Programado po Gabriel De Sousa Batista  
 
 ## Instalação
 
