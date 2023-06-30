@@ -1,6 +1,6 @@
 Trabalho da faculdade Catolica de Brasilia, Programação WEB
 
-Programado po Gabriel De Sousa Batista  
+Programado por Gabriel De Sousa Batista  
 
 ## Instalação
 
